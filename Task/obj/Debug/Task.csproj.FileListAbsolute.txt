@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\Task\bin\Debug\Task.exe.config
+C:\c#b22\add project\basic\LINQ\Task\bin\Debug\Task.exe
+C:\c#b22\add project\basic\LINQ\Task\bin\Debug\Task.pdb
+C:\c#b22\add project\basic\LINQ\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\Task\obj\Debug\Task.exe
+C:\c#b22\add project\basic\LINQ\Task\obj\Debug\Task.pdb

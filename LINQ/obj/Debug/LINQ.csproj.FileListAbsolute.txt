@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\c#b22\add project\basic\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\c#b22\add project\basic\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\c#b22\add project\basic\LINQ\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\c#b22\add project\basic\LINQ\LINQ\obj\Debug\LINQ.pdb
