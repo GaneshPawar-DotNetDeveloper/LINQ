@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\Lambda Expression\bin\Debug\Lambda Expression.exe.config
+C:\c#b22\add project\basic\LINQ\Lambda Expression\bin\Debug\Lambda Expression.exe
+C:\c#b22\add project\basic\LINQ\Lambda Expression\bin\Debug\Lambda Expression.pdb
+C:\c#b22\add project\basic\LINQ\Lambda Expression\obj\Debug\Lambda Expression.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\Lambda Expression\obj\Debug\Lambda Expression.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\Lambda Expression\obj\Debug\Lambda Expression.exe
+C:\c#b22\add project\basic\LINQ\Lambda Expression\obj\Debug\Lambda Expression.pdb
