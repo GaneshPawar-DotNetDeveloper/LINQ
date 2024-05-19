@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\2.SortingMethods\bin\Debug\2.SortingMethods.exe.config
+C:\c#b22\add project\basic\LINQ\2.SortingMethods\bin\Debug\2.SortingMethods.exe
+C:\c#b22\add project\basic\LINQ\2.SortingMethods\bin\Debug\2.SortingMethods.pdb
+C:\c#b22\add project\basic\LINQ\2.SortingMethods\obj\Debug\2.SortingMethods.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\2.SortingMethods\obj\Debug\2.SortingMethods.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\2.SortingMethods\obj\Debug\2.SortingMethods.exe
+C:\c#b22\add project\basic\LINQ\2.SortingMethods\obj\Debug\2.SortingMethods.pdb

@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\1.filtering method\bin\Debug\1.filtering method.exe.config
+C:\c#b22\add project\basic\LINQ\1.filtering method\bin\Debug\1.filtering method.exe
+C:\c#b22\add project\basic\LINQ\1.filtering method\bin\Debug\1.filtering method.pdb
+C:\c#b22\add project\basic\LINQ\1.filtering method\obj\Debug\1.filtering method.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\1.filtering method\obj\Debug\1.filtering method.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\1.filtering method\obj\Debug\1.filtering method.exe
+C:\c#b22\add project\basic\LINQ\1.filtering method\obj\Debug\1.filtering method.pdb
