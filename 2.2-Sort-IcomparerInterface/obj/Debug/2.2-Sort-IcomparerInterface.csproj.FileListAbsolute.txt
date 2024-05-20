@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\2.2-Sort-IcomparerInterface\bin\Debug\2.2-Sort-IcomparerInterface.exe.config
+C:\c#b22\add project\basic\LINQ\2.2-Sort-IcomparerInterface\bin\Debug\2.2-Sort-IcomparerInterface.exe
+C:\c#b22\add project\basic\LINQ\2.2-Sort-IcomparerInterface\bin\Debug\2.2-Sort-IcomparerInterface.pdb
+C:\c#b22\add project\basic\LINQ\2.2-Sort-IcomparerInterface\obj\Debug\2.2-Sort-IcomparerInterface.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\2.2-Sort-IcomparerInterface\obj\Debug\2.2-Sort-IcomparerInterface.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\2.2-Sort-IcomparerInterface\obj\Debug\2.2-Sort-IcomparerInterface.exe
+C:\c#b22\add project\basic\LINQ\2.2-Sort-IcomparerInterface\obj\Debug\2.2-Sort-IcomparerInterface.pdb

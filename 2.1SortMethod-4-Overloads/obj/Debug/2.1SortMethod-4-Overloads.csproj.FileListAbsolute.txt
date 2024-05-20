@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\2.1SortMethod-4-Overloads\bin\Debug\2.1SortMethod-4-Overloads.exe.config
+C:\c#b22\add project\basic\LINQ\2.1SortMethod-4-Overloads\bin\Debug\2.1SortMethod-4-Overloads.exe
+C:\c#b22\add project\basic\LINQ\2.1SortMethod-4-Overloads\bin\Debug\2.1SortMethod-4-Overloads.pdb
+C:\c#b22\add project\basic\LINQ\2.1SortMethod-4-Overloads\obj\Debug\2.1SortMethod-4-Overloads.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\2.1SortMethod-4-Overloads\obj\Debug\2.1SortMethod-4-Overloads.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\2.1SortMethod-4-Overloads\obj\Debug\2.1SortMethod-4-Overloads.exe
+C:\c#b22\add project\basic\LINQ\2.1SortMethod-4-Overloads\obj\Debug\2.1SortMethod-4-Overloads.pdb
