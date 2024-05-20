@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\Grouping\bin\Debug\Grouping.exe.config
+C:\c#b22\add project\basic\LINQ\Grouping\bin\Debug\Grouping.exe
+C:\c#b22\add project\basic\LINQ\Grouping\bin\Debug\Grouping.pdb
+C:\c#b22\add project\basic\LINQ\Grouping\obj\Debug\3-Grouping.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\Grouping\obj\Debug\3-Grouping.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\Grouping\obj\Debug\Grouping.exe
+C:\c#b22\add project\basic\LINQ\Grouping\obj\Debug\Grouping.pdb
