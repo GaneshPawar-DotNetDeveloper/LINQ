@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\4.1.1-selectExample\bin\Debug\4.1.1-selectExample.exe.config
+C:\c#b22\add project\basic\LINQ\4.1.1-selectExample\bin\Debug\4.1.1-selectExample.exe
+C:\c#b22\add project\basic\LINQ\4.1.1-selectExample\bin\Debug\4.1.1-selectExample.pdb
+C:\c#b22\add project\basic\LINQ\4.1.1-selectExample\obj\Debug\4.1.1-selectExample.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\4.1.1-selectExample\obj\Debug\4.1.1-selectExample.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\4.1.1-selectExample\obj\Debug\4.1.1-selectExample.exe
+C:\c#b22\add project\basic\LINQ\4.1.1-selectExample\obj\Debug\4.1.1-selectExample.pdb

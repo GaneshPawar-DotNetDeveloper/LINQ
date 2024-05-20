@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\4.1-select many\bin\Debug\4.1-select many.exe.config
+C:\c#b22\add project\basic\LINQ\4.1-select many\bin\Debug\4.1-select many.exe
+C:\c#b22\add project\basic\LINQ\4.1-select many\bin\Debug\4.1-select many.pdb
+C:\c#b22\add project\basic\LINQ\4.1-select many\obj\Debug\4.1-select many.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\4.1-select many\obj\Debug\4.1-select many.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\4.1-select many\obj\Debug\4.1-select many.exe
+C:\c#b22\add project\basic\LINQ\4.1-select many\obj\Debug\4.1-select many.pdb

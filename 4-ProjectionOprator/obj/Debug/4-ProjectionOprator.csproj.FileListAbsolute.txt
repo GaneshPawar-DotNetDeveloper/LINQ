@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\4-ProjectionOprator\bin\Debug\4-ProjectionOprator.exe.config
+C:\c#b22\add project\basic\LINQ\4-ProjectionOprator\bin\Debug\4-ProjectionOprator.exe
+C:\c#b22\add project\basic\LINQ\4-ProjectionOprator\bin\Debug\4-ProjectionOprator.pdb
+C:\c#b22\add project\basic\LINQ\4-ProjectionOprator\obj\Debug\4-ProjectionOprator.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\4-ProjectionOprator\obj\Debug\4-ProjectionOprator.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\4-ProjectionOprator\obj\Debug\4-ProjectionOprator.exe
+C:\c#b22\add project\basic\LINQ\4-ProjectionOprator\obj\Debug\4-ProjectionOprator.pdb
