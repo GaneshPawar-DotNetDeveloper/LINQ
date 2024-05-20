@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\5.AggrigationOperator\bin\Debug\5.AggrigationOperator.exe.config
+C:\c#b22\add project\basic\LINQ\5.AggrigationOperator\bin\Debug\5.AggrigationOperator.exe
+C:\c#b22\add project\basic\LINQ\5.AggrigationOperator\bin\Debug\5.AggrigationOperator.pdb
+C:\c#b22\add project\basic\LINQ\5.AggrigationOperator\obj\Debug\5.AggrigationOperator.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\5.AggrigationOperator\obj\Debug\5.AggrigationOperator.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\5.AggrigationOperator\obj\Debug\5.AggrigationOperator.exe
+C:\c#b22\add project\basic\LINQ\5.AggrigationOperator\obj\Debug\5.AggrigationOperator.pdb

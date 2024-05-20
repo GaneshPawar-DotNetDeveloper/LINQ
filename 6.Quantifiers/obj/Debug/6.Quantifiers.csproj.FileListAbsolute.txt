@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\6.Quantifiers\bin\Debug\6.Quantifiers.exe.config
+C:\c#b22\add project\basic\LINQ\6.Quantifiers\bin\Debug\6.Quantifiers.exe
+C:\c#b22\add project\basic\LINQ\6.Quantifiers\bin\Debug\6.Quantifiers.pdb
+C:\c#b22\add project\basic\LINQ\6.Quantifiers\obj\Debug\6.Quantifiers.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\6.Quantifiers\obj\Debug\6.Quantifiers.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\6.Quantifiers\obj\Debug\6.Quantifiers.exe
+C:\c#b22\add project\basic\LINQ\6.Quantifiers\obj\Debug\6.Quantifiers.pdb
