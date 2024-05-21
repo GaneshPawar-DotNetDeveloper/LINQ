@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\7.ElementOperator\bin\Debug\7.ElementOperator.exe.config
+C:\c#b22\add project\basic\LINQ\7.ElementOperator\bin\Debug\7.ElementOperator.exe
+C:\c#b22\add project\basic\LINQ\7.ElementOperator\bin\Debug\7.ElementOperator.pdb
+C:\c#b22\add project\basic\LINQ\7.ElementOperator\obj\Debug\7.ElementOperator.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\7.ElementOperator\obj\Debug\7.ElementOperator.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\7.ElementOperator\obj\Debug\7.ElementOperator.exe
+C:\c#b22\add project\basic\LINQ\7.ElementOperator\obj\Debug\7.ElementOperator.pdb
