@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\Task-Give Ranking For Collection\bin\Debug\Task-Give Ranking For Collection.exe.config
+C:\c#b22\add project\basic\LINQ\Task-Give Ranking For Collection\bin\Debug\Task-Give Ranking For Collection.exe
+C:\c#b22\add project\basic\LINQ\Task-Give Ranking For Collection\bin\Debug\Task-Give Ranking For Collection.pdb
+C:\c#b22\add project\basic\LINQ\Task-Give Ranking For Collection\obj\Debug\Task-Give Ranking For Collection.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\Task-Give Ranking For Collection\obj\Debug\Task-Give Ranking For Collection.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\Task-Give Ranking For Collection\obj\Debug\Task-Give Ranking For Collection.exe
+C:\c#b22\add project\basic\LINQ\Task-Give Ranking For Collection\obj\Debug\Task-Give Ranking For Collection.pdb

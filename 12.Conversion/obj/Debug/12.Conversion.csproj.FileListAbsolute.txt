@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\12.Conversion\bin\Debug\12.Conversion.exe.config
+C:\c#b22\add project\basic\LINQ\12.Conversion\bin\Debug\12.Conversion.exe
+C:\c#b22\add project\basic\LINQ\12.Conversion\bin\Debug\12.Conversion.pdb
+C:\c#b22\add project\basic\LINQ\12.Conversion\obj\Debug\12.Conversion.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\12.Conversion\obj\Debug\12.Conversion.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\12.Conversion\obj\Debug\12.Conversion.exe
+C:\c#b22\add project\basic\LINQ\12.Conversion\obj\Debug\12.Conversion.pdb

@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\Task-Quiz Application for small Kids\bin\Debug\Task-Quiz Application for small Kids.exe.config
+C:\c#b22\add project\basic\LINQ\Task-Quiz Application for small Kids\bin\Debug\Task-Quiz Application for small Kids.exe
+C:\c#b22\add project\basic\LINQ\Task-Quiz Application for small Kids\bin\Debug\Task-Quiz Application for small Kids.pdb
+C:\c#b22\add project\basic\LINQ\Task-Quiz Application for small Kids\obj\Debug\Task-Quiz Application for small Kids.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\Task-Quiz Application for small Kids\obj\Debug\Task-Quiz Application for small Kids.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\Task-Quiz Application for small Kids\obj\Debug\Task-Quiz Application for small Kids.exe
+C:\c#b22\add project\basic\LINQ\Task-Quiz Application for small Kids\obj\Debug\Task-Quiz Application for small Kids.pdb
