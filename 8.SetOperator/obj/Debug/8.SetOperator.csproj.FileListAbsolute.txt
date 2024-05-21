@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\8.SetOperator\bin\Debug\8.SetOperator.exe.config
+C:\c#b22\add project\basic\LINQ\8.SetOperator\bin\Debug\8.SetOperator.exe
+C:\c#b22\add project\basic\LINQ\8.SetOperator\bin\Debug\8.SetOperator.pdb
+C:\c#b22\add project\basic\LINQ\8.SetOperator\obj\Debug\8.SetOperator.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\8.SetOperator\obj\Debug\8.SetOperator.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\8.SetOperator\obj\Debug\8.SetOperator.exe
+C:\c#b22\add project\basic\LINQ\8.SetOperator\obj\Debug\8.SetOperator.pdb

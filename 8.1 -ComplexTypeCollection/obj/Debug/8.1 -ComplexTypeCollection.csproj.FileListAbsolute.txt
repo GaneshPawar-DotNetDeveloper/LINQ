@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\8.1 -ComplexTypeCollection\bin\Debug\8.1 -ComplexTypeCollection.exe.config
+C:\c#b22\add project\basic\LINQ\8.1 -ComplexTypeCollection\bin\Debug\8.1 -ComplexTypeCollection.exe
+C:\c#b22\add project\basic\LINQ\8.1 -ComplexTypeCollection\bin\Debug\8.1 -ComplexTypeCollection.pdb
+C:\c#b22\add project\basic\LINQ\8.1 -ComplexTypeCollection\obj\Debug\8.1 -ComplexTypeCollection.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\8.1 -ComplexTypeCollection\obj\Debug\8.1 -ComplexTypeCollection.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\8.1 -ComplexTypeCollection\obj\Debug\8.1 -ComplexTypeCollection.exe
+C:\c#b22\add project\basic\LINQ\8.1 -ComplexTypeCollection\obj\Debug\8.1 -ComplexTypeCollection.pdb
