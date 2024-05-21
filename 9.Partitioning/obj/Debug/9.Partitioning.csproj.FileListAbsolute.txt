@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\9.Partitioning\bin\Debug\9.Partitioning.exe.config
+C:\c#b22\add project\basic\LINQ\9.Partitioning\bin\Debug\9.Partitioning.exe
+C:\c#b22\add project\basic\LINQ\9.Partitioning\bin\Debug\9.Partitioning.pdb
+C:\c#b22\add project\basic\LINQ\9.Partitioning\obj\Debug\9.Partitioning.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\9.Partitioning\obj\Debug\9.Partitioning.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\9.Partitioning\obj\Debug\9.Partitioning.exe
+C:\c#b22\add project\basic\LINQ\9.Partitioning\obj\Debug\9.Partitioning.pdb
