@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\11.Generation\bin\Debug\11.Generation.exe.config
+C:\c#b22\add project\basic\LINQ\11.Generation\bin\Debug\11.Generation.exe
+C:\c#b22\add project\basic\LINQ\11.Generation\bin\Debug\11.Generation.pdb
+C:\c#b22\add project\basic\LINQ\11.Generation\obj\Debug\11.Generation.csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\11.Generation\obj\Debug\11.Generation.csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\11.Generation\obj\Debug\11.Generation.exe
+C:\c#b22\add project\basic\LINQ\11.Generation\obj\Debug\11.Generation.pdb

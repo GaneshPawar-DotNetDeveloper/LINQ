@@ -1,0 +1,7 @@
+C:\c#b22\add project\basic\LINQ\10.Equality(SequenceEqual)\bin\Debug\10.Equality(SequenceEqual).exe.config
+C:\c#b22\add project\basic\LINQ\10.Equality(SequenceEqual)\bin\Debug\10.Equality(SequenceEqual).exe
+C:\c#b22\add project\basic\LINQ\10.Equality(SequenceEqual)\bin\Debug\10.Equality(SequenceEqual).pdb
+C:\c#b22\add project\basic\LINQ\10.Equality(SequenceEqual)\obj\Debug\10.Equality(SequenceEqual).csproj.AssemblyReference.cache
+C:\c#b22\add project\basic\LINQ\10.Equality(SequenceEqual)\obj\Debug\10.Equality(SequenceEqual).csproj.CoreCompileInputs.cache
+C:\c#b22\add project\basic\LINQ\10.Equality(SequenceEqual)\obj\Debug\10.Equality(SequenceEqual).exe
+C:\c#b22\add project\basic\LINQ\10.Equality(SequenceEqual)\obj\Debug\10.Equality(SequenceEqual).pdb
